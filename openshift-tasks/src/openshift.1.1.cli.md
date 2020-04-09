@@ -30,3 +30,5 @@
     * Cluster information
 * What extra setup do you need to perform to start using `kubectl` for managing
     Kubernetes primitives in OpenShift? Why?
+* List nodes
+* Last 20 lines from node logs of all master nodes (i.e. do NOT use node name)
