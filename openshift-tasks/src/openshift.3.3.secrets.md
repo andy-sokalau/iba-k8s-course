@@ -11,10 +11,8 @@
 
 ## Tasks
 
-* Create 2 files `username.txt` and `password.txt` which contains username and password
-* Create the secret from these files using `oc` tool and GUI
-* Mount the secret to the nginx deployment pod as a file in read-only mode:
-    * username and password together
-    * only username
-    * only password
-* Mount the secret to the nginx deployment pod as env vars
+* Create single YAML file with opaque secret and pod definition which will
+    output these secrets. Use it via `oc` tool and check the output
+* Create secret via GUI. Deploy **Jenkins Ephemeral** from Catalog and 
+    add secret using **Apply to workload** option. Get into Jenkins 
+    container and output the values
