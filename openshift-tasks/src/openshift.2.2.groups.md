@@ -11,6 +11,9 @@
 
 ## Tasks
 
+> All user/permission related tasks might not work in Playgroud. Consider using
+    locally-installed CRC if that's your case
+
 * Create group
 * Add several users to the group
 * Remove user from the group

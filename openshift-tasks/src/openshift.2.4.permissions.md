@@ -16,6 +16,9 @@
 
 ## Tasks
 
+> All user/permission related tasks might not work in Playgroud. Consider using
+    locally-installed CRC if that's your case
+
 * List roles & cluster roles. Which one is **admin**?
 * Output info about what actions this role gives for which resources
 * Assign **admin** role for **default** project to some group

@@ -17,6 +17,9 @@
 
 ## Tasks
 
+> All user/permission related tasks might not work in Playgroud. Consider using
+    locally-installed CRC if that's your case
+
 * Create password file with `htpasswd` and add several users
 * Use `oc` tool to setup **HTPasswd** identity provider
 * Use GUI to setup **HTPasswd** identity provider with **lookup** mapping method
