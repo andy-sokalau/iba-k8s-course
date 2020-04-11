@@ -13,8 +13,6 @@
 ## Tasks
 
 * Create password file with `htpasswd` and add several users
-* Use `oc` tool to setup **HTPasswd** identity provider and 
-    login as one of the users created during the previous step
-    via `oc login`
-* Use GUI to setup **HTPasswd** identity provider and login to
-    console via one of the users
+* Use `oc` tool to setup **HTPasswd** identity provider
+* Use GUI to setup **HTPasswd** identity provider
+* Remove one of the users and add new one for any providers above
