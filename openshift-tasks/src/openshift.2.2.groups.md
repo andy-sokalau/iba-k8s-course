@@ -11,7 +11,7 @@
 
 ## Tasks
 
-> All user/permission related tasks might not work in Playgroud. Consider using
+> All user/permission related tasks might not work in Playground. Consider using
     locally-installed CRC if that's your case
 
 * Create group
