@@ -7,6 +7,7 @@
 
 ## Reference Info
 
+* [Understanding identity provider configuration](https://docs.openshift.com/container-platform/4.2/authentication/understanding-identity-provider.html)
 * [Configuring an HTPasswd identity provider](https://docs.openshift.com/container-platform/4.2/authentication/identity_providers/configuring-htpasswd-identity-provider.html)
 * [htpasswd(1) - Linux man page](https://linux.die.net/man/1/htpasswd)
 
@@ -14,5 +15,4 @@
 
 * Create password file with `htpasswd` and add several users
 * Use `oc` tool to setup **HTPasswd** identity provider
-* Use GUI to setup **HTPasswd** identity provider
-* Remove one of the users and add new one for any providers above
+* Use GUI to setup **HTPasswd** identity provider with **lookup** mapping method
