@@ -1,4 +1,4 @@
-# HTPasswd Identity Provider
+# Managing Users
 
 ## Exam Study Point
 

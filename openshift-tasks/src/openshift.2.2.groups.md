@@ -1,4 +1,4 @@
-# Groups
+# Managing Groups
 
 ## Exam Study Point
 
