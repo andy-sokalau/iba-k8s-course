@@ -3,6 +3,7 @@
 ## Reference Info
 
 * [Kubernetes and Helm: Create Your Own Helm Chart](https://medium.com/google-cloud/kubernetes-and-helm-create-your-own-helm-chart-5f54aed894c2)
+* [Charts](https://helm.sh/docs/topics/charts/)
 
 ## Tasks
 
